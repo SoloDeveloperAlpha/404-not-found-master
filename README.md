@@ -72,5 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website Maybe in the future
-- GitHub [@SoloDeveloperAlpha](https://{github.com/SoloDeveloperAlpha})
+- GitHub @SoloDeveloperAlpha (https://{github.com/SoloDeveloperAlpha})
 - Twitter Maybe in the future
